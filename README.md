@@ -87,7 +87,7 @@ Una vez iniciado el servidor de desarrollo, podrás:
 
 Puedes visualizar el prototipo de diseño en el siguiente enlace:
 
-https://www.figma.com/proto/uLtvsYHhBbuUj4GVf3pWhk8/recetas-app?node-id=0-1&t=kjZy5bALN6ceXKHH-1
+https://www.figma.com/design/uLtvsYhBbuUj4GVf3pWhk8/recetas-app?node-id=0-1&t=kjZy5bALN6ceXKHH-1
 
 
 
