@@ -52,3 +52,10 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 git clone https://github.com/thomasx4/recetas-app.git
 cd recetas-app
 
+---
+
+### Mockups Figma
+
+```bash
+https://www.figma.com/proto/uLtvsYhBbuUj4GVf3pWhk8/recetas-app?node-id=0-1&t=kjZy5bALN6ceXKHH-1
+
